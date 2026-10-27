@@ -1,0 +1,28 @@
+{
+  "tickets": [
+    {
+      "id": 3,
+      "title": "Server Error",
+      "description": "Getting a 500 internal server error",
+      "priority": "medium",
+      "user": "Priya Verma",
+      "status": "resolved"
+    },
+    {
+      "id": 4,
+      "title": "Password Reset",
+      "description": "Password reset email is not received",
+      "priority": "medium",
+      "user": "Amit Kumar",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "react issue",
+      "description": "unable to write",
+      "priority": "Low",
+      "user": "Reman Dua",
+      "status": "pending"
+    }
+  ]
+}
